@@ -1,0 +1,85 @@
+body {
+    box-sizing: border-box;
+    background-color: #23252C;
+    font-family: sans-serif;
+}
+
+nav {
+    width: 317px;
+    height:480px;
+    margin: auto;
+    border-radius: 10px 10px 0px 0px;
+    background-color: #1A1B21;
+    text-align: center;
+    color: white;
+}
+
+.nav--header {
+    line-height: 30px;
+    font-size: 25px;
+    margin-bottom: 0;
+}
+
+.nav--designation{
+    font-size: 13px;
+    color: #F3BF99;
+    margin-bottom: 1px;
+    margin-top: 3px;
+}
+
+.nav--website {
+    font-size: 10px;
+    line-height: 150%;
+}
+
+.nav--buttons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 250px;
+    margin: auto;
+    
+}
+
+.nav--mail_btn {
+    width: 115px;
+    height: 34px;
+    border-radius: 6px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    cursor: pointer;
+    display: flex;
+    justify-content:center;
+    padding-top: 6px;
+}
+.nav--icon{
+    padding-right: 8px;
+}
+.nav--linkedin_btn{
+    width: 115px;
+    height: 34px;
+    border-radius: 6px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    background-color: #5093E2;
+    color: white;
+    cursor: pointer;
+    display: flex;
+    justify-content:center;
+    padding-top: 6px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
